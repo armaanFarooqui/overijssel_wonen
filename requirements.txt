@@ -1,0 +1,10 @@
+notebook
+numpy
+pandas
+matplotlib
+geopandas
+folium
+xarray
+rioxarray
+contextily
+pystac_client

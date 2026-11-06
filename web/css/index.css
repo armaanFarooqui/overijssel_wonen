@@ -1,0 +1,14 @@
+.content ul{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10vw;
+}
+
+.content ul li{
+  width: 100%;
+}
+
+.map{
+  border: none;
+}

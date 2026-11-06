@@ -1,0 +1,18 @@
+.back_button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 15vw;
+  height: 5vw;
+  font-weight: bold;
+  border: 0.5vw solid black
+}
+
+.back_button:hover{
+  background: black;
+  color: white
+}
+
+.container{
+  margin-bottom: 2vw;
+}
