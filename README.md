@@ -1,6 +1,6 @@
 # Overijssel Wonen
 
-Explore neighbourhood vegetation in Enschede, Zwolle, and Almelo. Each city page shows an interactive map of mean neighbourhood NDVI (Normalised Difference Vegetation Index).
+Explore neighbourhood vegetation in Zwolle, Almelo, and Ommen. Each city page shows an interactive map of mean neighbourhood NDVI (Normalised Difference Vegetation Index).
 
 ## View the website
 
