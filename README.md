@@ -47,5 +47,3 @@ Run all the notebook cells.
 - [CBS Wijk- en Buurtkaart 2026 via PDOK](https://www.pdok.nl/ogc-apis/-/article/cbs-wijken-en-buurten)
 - [Sentinel-2 Level-2A via Earth Search](https://registry.opendata.aws/sentinel-2-l2a-cogs/)
 - [Esri World Imagery](https://www.arcgis.com/home/item.html?id=10df2279f9684e4a9f6a7f08febac2a9#overview) for the satellite PNGs
-
-See [LICENSE](LICENSE) for the project license.
